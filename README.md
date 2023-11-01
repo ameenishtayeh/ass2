@@ -1,1 +1,3 @@
-# ass2
+I have designed an application for a company consisting of management, managers, and employees. The company’s users share some general characteristics, such as name and age. The managers manage a group of employees and supervise them. They create reports and then submit them to the managers. In the system, each employee has his own. His personal qualities.
+Through this application, it allows the creation of various reports and writing them according to specific and different criteria.
+In a class diagram, managers can have managers and employees, managers can manage employees and create reports, and employees have a supervisor. Reports are generated based on certain criteria,
